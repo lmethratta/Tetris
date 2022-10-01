@@ -1,0 +1,5 @@
+1,Andr.y,Fedo.g,Tany.n,Kyle.y,Rahu.a,Gran.e,15,16,16,47
+2,Mitc.y,Sunn.p,Yu-T.e,Arit.n,Anna.i,Jack.y,18,11,21,50
+3,Alexis.t,Mara.k,Khal.o,Alex.n,Josh.e,NIng.n,16,13,17,46
+4,Spen.r,Chen.o,Gabr.e,Veve.e,Jayv.u,Bran.n,17,13,14,44
+5,Jack.n,Mary.y,Thom.i,Mia.m,Zach.h,Ben.h,12,16,17,45

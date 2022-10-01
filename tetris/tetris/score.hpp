@@ -1,0 +1,1 @@
+int compute_score(int previous_score, int lines_cleared);
